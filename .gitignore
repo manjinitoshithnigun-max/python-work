@@ -1,0 +1,5 @@
+.vscode/
+__pychace__/
+*.exe
+.env
+apikeys.py
